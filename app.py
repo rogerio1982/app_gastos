@@ -20,7 +20,7 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 app = Flask(__name__)
 
 # =====================
-# BANCO DE DADOS
+# BANCO DE DADOS do 
 # =====================
 
 def conectar_db():
